@@ -41,13 +41,6 @@ ship_col1 = random_col1(board)
 ship_row2 = random_row2(board)
 ship_col2 = random_col2(board)
 
-print (ship_row)
-print (ship_col)
-print (ship_row1)
-print (ship_col1)
-print (ship_row2)
-print (ship_col2)
-
 
 for turn in range(10):
   print ("Turn", turn + 1)
